@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThirdApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_update">Take new zones from server</string>
+    <string name="zone_check_box">Checked!</string>
+
+</resources>
